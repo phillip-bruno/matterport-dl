@@ -1,0 +1,48 @@
+{
+  "data" : {
+    "model" : {
+      "id" : "AVqE6YjnCz3",
+      "floors" : [ {
+        "id" : "tsmq1wak12rhgn0mawksxcwcd",
+        "meshId" : 0,
+        "classification" : "Lower level",
+        "label" : "Lower level",
+        "sequence" : 0,
+        "dimensions" : {
+          "areaFloor" : 500.9293194621324,
+          "units" : "imperial"
+        }
+      }, {
+        "id" : "pd0i1c4yq9w0y2zsb07ed23sb",
+        "meshId" : 1,
+        "classification" : "Floor 1",
+        "label" : "Floor 1",
+        "sequence" : 1,
+        "dimensions" : {
+          "areaFloor" : 1108.1520949653625,
+          "units" : "imperial"
+        }
+      }, {
+        "id" : "h0ysdfsrzyt6errbx1x8g92wc",
+        "meshId" : 2,
+        "classification" : "Floor 2",
+        "label" : "Floor 2",
+        "sequence" : 2,
+        "dimensions" : {
+          "areaFloor" : 882.6430078921794,
+          "units" : "imperial"
+        }
+      }, {
+        "id" : "8u3q45igh1eebd8g135dia9wc",
+        "meshId" : 3,
+        "classification" : "Floor 3",
+        "label" : "Floor 3",
+        "sequence" : 3,
+        "dimensions" : {
+          "areaFloor" : 730.9021679725647,
+          "units" : "imperial"
+        }
+      } ]
+    }
+  }
+}

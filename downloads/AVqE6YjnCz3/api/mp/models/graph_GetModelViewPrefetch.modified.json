@@ -1,0 +1,95 @@
+{
+  "data" : {
+    "model" : {
+      "id" : "AVqE6YjnCz3",
+      "mattertags" : [ ],
+      "orderedLists" : [ ],
+      "labels" : [ ],
+      "measurementPaths" : [ ],
+      "activeHighlightReel" : null,
+      "image" : {
+        "id" : "KWvTUTvTGbs",
+        "label" : "04.04.2025_08.45.48",
+        "classification" : null,
+        "category" : "snapshot",
+        "height" : 1707,
+        "width" : 3034,
+        "created" : "2025-04-04T12:45:49Z",
+        "modified" : "2025-04-04T12:45:49Z",
+        "status" : "available",
+        "filename" : "04042025_084548.jpg",
+        "format" : "image",
+        "url" : "https://cdn-2.matterport.com/apifs/models/AVqE6YjnCz3/images/KWvTUTvTGbs/04.04.2025_08.45.48.jpg?t=2-7db261a3caedbb6d06267506c54228dd732b4e60-1753038878-1",
+        "resolutions" : [ "icon", "thumbnail", "preview", "web", "presentation", "original" ],
+        "type" : "photo2D",
+        "origin" : "user",
+        "validUntil":"2099-01-01T19:14:38Z",
+        "thumbnailUrl" : "https://cdn-2.matterport.com/apifs/models/AVqE6YjnCz3/images/KWvTUTvTGbs/04.04.2025_08.45.48.jpg?t=2-7db261a3caedbb6d06267506c54228dd732b4e60-1753038878-1&width=200&height=140&fit=crop&disable=upscale",
+        "presentationUrl" : "https://cdn-2.matterport.com/apifs/models/AVqE6YjnCz3/images/KWvTUTvTGbs/04.04.2025_08.45.48.jpg?t=2-7db261a3caedbb6d06267506c54228dd732b4e60-1753038878-1&width=1920&height=1080&fit=crop&disable=upscale",
+        "snapshotLocation" : {
+          "viewMode" : "panorama",
+          "position" : {
+            "x" : 9.897087097167969,
+            "y" : 1.2262779474258423,
+            "z" : -1.6037302017211914
+          },
+          "rotation" : {
+            "x" : -0.5224095399429286,
+            "y" : -0.5224095684668358,
+            "z" : 0.47653782037842357,
+            "w" : 0.4765378203784235
+          },
+          "zoom" : 1.0,
+          "floorVisibility" : [ {
+            "id" : "pd0i1c4yq9w0y2zsb07ed23sb",
+            "meshId" : 1,
+            "sequence" : 1
+          } ],
+          "anchor" : {
+            "id" : "r97y4xnhz6fcrdfa0c9q8gu0d",
+            "pano" : {
+              "id" : "r97y4xnhz6fcrdfa0c9q8gu0d",
+              "placement" : "auto"
+            }
+          }
+        }
+      }
+    },
+    "view" : {
+      "layers" : [ {
+        "layer" : {
+          "id" : "zrp9y12s8yeb3txphmif9b06b",
+          "created" : "2025-04-03T17:44:51Z",
+          "modified" : "2025-04-05T00:44:54Z",
+          "type" : "matterport.user.data",
+          "name" : "matterport.user.data",
+          "label" : ""
+        },
+        "position" : 0,
+        "visible" : true
+      }, {
+        "layer" : {
+          "id" : "nxieuesizecqu40ai2q9f1bea",
+          "created" : "2025-04-04T04:39:12Z",
+          "modified" : "2025-04-04T04:39:13Z",
+          "type" : "matterport.proxy.common",
+          "name" : "matterport.proxy.common",
+          "label" : "proxy-aaaaaaaaaaaaaaaaaaaaaaaaa"
+        },
+        "position" : 1,
+        "visible" : true
+      }, {
+        "layer" : {
+          "id" : "aaaaaaaaaaaaaaaaaaaaaaaaa",
+          "created" : "2025-04-03T16:09:41Z",
+          "modified" : "2025-07-20T03:53:07Z",
+          "type" : "matterport.base",
+          "name" : null,
+          "label" : ""
+        },
+        "position" : 2,
+        "visible" : true
+      } ]
+    }
+  }
+}

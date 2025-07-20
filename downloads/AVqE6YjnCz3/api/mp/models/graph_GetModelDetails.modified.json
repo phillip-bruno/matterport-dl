@@ -1,0 +1,125 @@
+{
+  "data" : {
+    "model" : {
+      "id" : "AVqE6YjnCz3",
+      "name" : "17 Haverson Blvd",
+      "visibility" : "public",
+      "discoverable" : true,
+      "state" : "active",
+      "image" : {
+        "id" : "KWvTUTvTGbs",
+        "label" : "04.04.2025_08.45.48",
+        "classification" : null,
+        "category" : "snapshot",
+        "height" : 1707,
+        "width" : 3034,
+        "created" : "2025-04-04T12:45:49Z",
+        "modified" : "2025-04-04T12:45:49Z",
+        "status" : "available",
+        "filename" : "04042025_084548.jpg",
+        "format" : "image",
+        "url" : "https://cdn-2.matterport.com/apifs/models/AVqE6YjnCz3/images/KWvTUTvTGbs/04.04.2025_08.45.48.jpg?t=2-048119acd2dd198ac01710c0ee966a2aa9e59502-1753038877-1",
+        "resolutions" : [ "icon", "thumbnail", "preview", "web", "presentation", "original" ],
+        "type" : "photo2D",
+        "origin" : "user",
+        "validUntil":"2099-01-01T19:14:37Z",
+        "thumbnailUrl" : "https://cdn-2.matterport.com/apifs/models/AVqE6YjnCz3/images/KWvTUTvTGbs/04.04.2025_08.45.48.jpg?t=2-048119acd2dd198ac01710c0ee966a2aa9e59502-1753038877-1&width=200&height=140&fit=crop&disable=upscale",
+        "presentationUrl" : "https://cdn-2.matterport.com/apifs/models/AVqE6YjnCz3/images/KWvTUTvTGbs/04.04.2025_08.45.48.jpg?t=2-048119acd2dd198ac01710c0ee966a2aa9e59502-1753038877-1&width=1920&height=1080&fit=crop&disable=upscale",
+        "snapshotLocation" : {
+          "viewMode" : "panorama",
+          "position" : {
+            "x" : 9.897087097167969,
+            "y" : 1.2262779474258423,
+            "z" : -1.6037302017211914
+          },
+          "rotation" : {
+            "x" : -0.5224095399429286,
+            "y" : -0.5224095684668358,
+            "z" : 0.47653782037842357,
+            "w" : 0.4765378203784235
+          },
+          "zoom" : 1.0,
+          "floorVisibility" : [ {
+            "id" : "pd0i1c4yq9w0y2zsb07ed23sb",
+            "meshId" : 1,
+            "sequence" : 1
+          } ],
+          "anchor" : {
+            "id" : "r97y4xnhz6fcrdfa0c9q8gu0d",
+            "pano" : {
+              "id" : "r97y4xnhz6fcrdfa0c9q8gu0d",
+              "placement" : "auto"
+            }
+          }
+        }
+      },
+      "publication" : {
+        "address" : "17 Haverson Blvd, Toronto ON M6M 3J5, CA",
+        "published" : true,
+        "lastPublished" : null,
+        "presentedBy" : "",
+        "summary" : "",
+        "description" : "",
+        "externalUrl" : null,
+        "contact" : {
+          "name" : "",
+          "email" : "",
+          "phoneNumber" : null
+        }
+      },
+      "options" : {
+        "urlBrandingEnabled" : true,
+        "socialSharingEnabled" : true,
+        "vrEnabled" : true
+      },
+      "assets" : {
+        "meshes" : [ {
+          "id" : "meshes/qp34i0nzky21m6muds382irpb",
+          "status" : "available",
+          "filename" : "28ce5876b61d433086716962ec97446b_50k.dam",
+          "format" : "dam",
+          "resolution" : "50k",
+          "url" : "https://cdn-2.matterport.com/models/7938fefdcd5f4230ae893e3f29665aa8/assets/28ce5876b61d433086716962ec97446b_50k.dam?t=2-7cdc905ea076ad5d644b76c67f6b6994b3b78e4b-1753038877-1",
+          "validUntil":"2099-01-01T19:14:37Z"
+        } ],
+        "textures" : [ {
+          "id" : "50k-low",
+          "status" : "available",
+          "format" : "jpg",
+          "resolution" : "50k",
+          "quality" : "low",
+          "urlTemplate" : "https://cdn-2.matterport.com/models/7938fefdcd5f4230ae893e3f29665aa8/assets/~/28ce5876b61d433086716962ec97446b_50k_texture_jpg_low/28ce5876b61d433086716962ec97446b_50k_<texture>.jpg?t=2-034d1be5a26c330a6de0aa48d9f28d6046d7b301-1753038877-0&k=models%2F7938fefdcd5f4230ae893e3f29665aa8%2Fassets",
+          "validUntil":"2099-01-01T19:14:37Z"
+        }, {
+          "id" : "50k-high",
+          "status" : "available",
+          "format" : "jpg",
+          "resolution" : "50k",
+          "quality" : "high",
+          "urlTemplate" : "https://cdn-2.matterport.com/models/7938fefdcd5f4230ae893e3f29665aa8/assets/~/28ce5876b61d433086716962ec97446b_50k_texture_jpg_high/28ce5876b61d433086716962ec97446b_50k_<texture>.jpg?t=2-034d1be5a26c330a6de0aa48d9f28d6046d7b301-1753038877-0&k=models%2F7938fefdcd5f4230ae893e3f29665aa8%2Fassets",
+          "validUntil":"2099-01-01T19:14:37Z"
+        } ],
+        "tilesets" : [ {
+          "status" : "available",
+          "tilesetVersion" : "1.2.0",
+          "url" : "https://cdn-2.matterport.com/models/7938fefdcd5f4230ae893e3f29665aa8/assets/mesh_tiles/~/tileset.json?t=2-8df7c24b7c9b4234869e7d0313348ba42b0704a1-1753038877-1&k=models%2F7938fefdcd5f4230ae893e3f29665aa8%2Fassets%2Fmesh_tiles",
+          "urlTemplate" : "https://cdn-2.matterport.com/models/7938fefdcd5f4230ae893e3f29665aa8/assets/mesh_tiles/~/<file>?t=2-8df7c24b7c9b4234869e7d0313348ba42b0704a1-1753038877-1&k=models%2F7938fefdcd5f4230ae893e3f29665aa8%2Fassets%2Fmesh_tiles",
+          "validUntil":"2099-01-01T19:14:37Z",
+          "tilesetDepth" : 3,
+          "tilesetPreset" : "basic2"
+        } ]
+      },
+      "lod" : {
+        "options" : [ "lod2" ]
+      },
+      "overlayLayers" : [ ],
+      "baseView" : {
+        "model" : {
+          "id" : "AVqE6YjnCz3"
+        }
+      },
+      "defurnishViews" : [ ],
+      "legacyBaseView" : null
+    }
+  }
+}
